@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moscow-events/static/css/main.073c9b0a.css",
+    "main.js": "/moscow-events/static/js/main.ae5b4abe.js",
+    "static/js/787.a189bfc4.chunk.js": "/moscow-events/static/js/787.a189bfc4.chunk.js",
+    "static/media/logo.svg": "/moscow-events/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moscow-events/index.html",
+    "main.073c9b0a.css.map": "/moscow-events/static/css/main.073c9b0a.css.map",
+    "main.ae5b4abe.js.map": "/moscow-events/static/js/main.ae5b4abe.js.map",
+    "787.a189bfc4.chunk.js.map": "/moscow-events/static/js/787.a189bfc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ae5b4abe.js"
+  ]
+}
